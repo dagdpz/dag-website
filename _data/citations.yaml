@@ -1,174 +1,554 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.31234/osf.io/fx2bg
+  title: 'Little scientists &amp;amp; social apprentices:  Active word learning in
+    dynamic social contexts using a transparent dyadic interaction platform'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Ricarda Bothe
+  - Sebastian Isbaner
+  - Xiaoyun Chen
+  - Igor Kagan
+  - Alexander Gail
+  - Nivedita Mani
+  publisher: Center for Open Science
+  date: '2024-03-12'
+  link: https://doi.org/gtpk89
+  orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1093/med/9780197676158.003.0071
+  title: Visuospatial and Motor Deficits Following Pulvinar Lesions
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Melanie Wilke
+  - Igor Kagan
+  publisher: The Cerebral Cortex and Thalamus
+  date: '2023-12-01'
+  link: https://doi.org/gtpk9b
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cercor/bhad333
+  title: Visual, delay, and oculomotor timing and tuning in macaque dorsal pulvinar
+    during instructed and free choice memory saccades
+  authors:
+  - Lukas Schneider
+  - Adan-Ulises Dominguez-Vargas
+  - Lydia Gibson
+  - Melanie Wilke
+  - Igor Kagan
+  publisher: Cerebral Cortex
+  date: '2023-09-18'
+  link: https://doi.org/gtpk9c
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.81641
+  title: Human and macaque pairs employ different coordination strategies in a transparent
+    decision game
+  authors:
+  - Sebastian Moeller
+  - Anton M Unakafov
+  - Julia Fischer
+  - Alexander Gail
+  - Stefan Treue
+  - Igor Kagan
+  publisher: eLife
+  date: '2023-01-12'
+  link: https://doi.org/grxpvx
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.30.520322
+  title: Dorsal pulvinar inactivation leads to spatial selection bias without perceptual
+    deficit
+  authors:
+  - Kristin Kaduk
+  - Melanie Wilke
+  - Igor Kagan
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-12-30'
+  link: https://doi.org/gtpk9d
+  orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2022.12.25.521898
+  title: Modality-specific and modality-general representations of subjective value
+    in frontal cortex
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Shilpa Dang
+  - Jessica Emily Antono
+  - Igor Kagan
+  - Arezoo Pooresmaeili
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2022-12-26'
+  link: https://doi.org/gtpk9f
+  orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1101/2022.08.12.503607
+  title: Egocentric Bias in Effort Comparison Tasks Is Driven by Sensory Asymmetries,
+    Not Attribution Bias
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Caedyn Stinson
+  - Igor Kagan
+  - Arezoo Pooresmaeili
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2022-08-15'
+  link: https://doi.org/gtpk9g
+  orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/2022.06.29.498152
+  title: Decision-making processes in perceptual learning depend on effectors
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Vladyslav Ivanov
+  - Giorgio L. Manenti
+  - Sandrin S. Plewe
+  - Igor Kagan
+  - Caspar M. Schwiedrzik
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-03'
+  link: https://doi.org/gtpk9h
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.12.21.473504
+  title: Visual, delay and oculomotor timing and tuning in macaque dorsal pulvinar
+    during instructed and free choice memory saccades
+  authors:
+  - Lukas Schneider
+  - Adan-Ulises Dominguez-Vargas
+  - Lydia Gibson
+  - Melanie Wilke
+  - Igor Kagan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-23'
+  link: https://doi.org/gsz4fn
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.16.298539
+  title: Effective connectivity and spatial selectivity-dependent fMRI changes elicited
+    by microstimulation of pulvinar and LIP
+  authors:
+  - Igor Kagan
+  - Lydia Gibson
+  - Elena Spanou
+  - Melanie Wilke
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-09-17'
+  link: https://doi.org/gtpk9j
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.14.041129
+  title: Deep Active Inference and Scene Construction
+  authors:
+  - R. Conor Heins
+  - M. Berk Mirza
+  - Thomas Parr
+  - Karl Friston
+  - Igor Kagan
+  - Arezoo Pooresmaeili
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-15'
+  link: https://doi.org/gjswb8
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.03.13.983551
+  title: Human and macaque pairs employ different coordination strategies in a transparent
+    decision game
+  authors:
+  - "Sebastian M\xF6ller"
+  - Anton M. Unakafov
+  - Julia Fischer
+  - Alexander Gail
+  - Stefan Treue
+  - Igor Kagan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-03-14'
+  link: https://doi.org/gk2cb4
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-58686-0
+  title: Judgments of effort exerted by others are influenced by received rewards
+  authors:
+  - Max Rollwage
+  - Franziska Pannach
+  - Caedyn Stinson
+  - Ulf Toelch
+  - Igor Kagan
+  - Arezoo Pooresmaeili
+  publisher: Scientific Reports
+  date: '2020-02-05'
+  link: https://doi.org/gpgg9g
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007588
+  title: Emergence and suppression of cooperation by action visibility in transparent
+    games
+  authors:
+  - Anton M. Unakafov
+  - Thomas Schultze
+  - Alexander Gail
+  - Sebastian Moeller
+  - Igor Kagan
+  - Stephan Eule
+  - Fred Wolf
+  publisher: PLOS Computational Biology
+  date: '2020-01-09'
+  link: https://doi.org/gtpk9k
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/jn.00432.2019
+  title: Eye position signals in the dorsal pulvinar during fixation and goal-directed
+    saccades
+  authors:
+  - Lukas Schneider
+  - Adan-Ulises Dominguez-Vargas
+  - Lydia Gibson
+  - Igor Kagan
+  - Melanie Wilke
+  publisher: Journal of Neurophysiology
+  date: '2020-01-01'
+  link: https://doi.org/grb4v5
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/681130
+  title: Eye position signals in the dorsal pulvinar during fixation and goal-directed
+    saccades
+  authors:
+  - Lukas Schneider
+  - Adan-Ulises Dominguez-Vargas
+  - Lydia Gibson
+  - Igor Kagan
+  - Melanie Wilke
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-07-08'
+  link: https://doi.org/gk2vjv
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/524348
+  title: "Evolutionary successful strategies in a transparent iterated Prisoner\u2019\
+    s Dilemma"
+  authors:
+  - Anton M. Unakafov
+  - Thomas Schultze
+  - Igor Kagan
+  - Sebastian Moeller
+  - Alexander Gail
+  - Stefan Treue
+  - Stephan Eule
+  - Fred Wolf
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-01'
+  link: https://doi.org/gk259w
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-26366-9
+  title: Lateral intraparietal area (LIP) is largely effector-specific in free-choice
+    decisions
+  authors:
+  - Vassilios N. Christopoulos
+  - Igor Kagan
+  - Richard A. Andersen
+  publisher: Scientific Reports
+  date: '2018-06-05'
+  link: https://doi.org/gdq3bh
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/314500
+  title: Emergence and suppression of cooperation by action visibility in transparent
+    games
+  authors:
+  - Anton M. Unakafov
+  - Thomas Schultze
+  - Igor Kagan
+  - Sebastian Moeller
+  - Stephan Eule
+  - Fred Wolf
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-05-07'
+  link: https://doi.org/gddwb4
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/272872
+  title: Post-decision wagering after perceptual judgments reveals bi-directional
+    certainty readouts
+  authors:
+  - Caio M. Moreira
+  - Max Rollwage
+  - Kristin Kaduk
+  - Melanie Wilke
+  - Igor Kagan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-02-28'
+  link: https://doi.org/gk23ch
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cortex.2017.10.011
+  title: Reach and grasp deficits following damage to the dorsal pulvinar
+  authors:
+  - Melanie Wilke
+  - Lukas Schneider
+  - Adan-Ulises Dominguez-Vargas
+  - Carsten Schmidt-Samoa
+  - Kristina Miloserdov
+  - Ahmad Nazzal
+  - Peter Dechent
+  - Yuranny Cabral-Calderin
+  - "Hansj\xF6rg Scherberger"
+  - Igor Kagan
+  - "Mathias B\xE4hr"
+  publisher: Cortex
+  date: '2018-02-01'
+  link: https://doi.org/gc5djr
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/252403
+  title: Using imaging photoplethysmography for heart rate estimation in non-human
+    primates
+  authors:
+  - Anton M. Unakafov
+  - "Sebastian M\xF6ller"
+  - Igor Kagan
+  - Alexander Gail
+  - Stefan Treue
+  - Fred Wolf
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-01-25'
+  link: https://doi.org/gkvn96
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.1984-16.2016
+  title: Electrical Microstimulation of the Pulvinar Biases Saccade Choices and Reaction
+    Times in a Time-Dependent Manner
+  authors:
+  - Adan-Ulises Dominguez-Vargas
+  - Lukas Schneider
+  - Melanie Wilke
+  - Igor Kagan
+  publisher: The Journal of Neuroscience
+  date: '2017-01-24'
+  link: https://doi.org/gg3k22
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuropsychologia.2015.10.031
+  title: 'Trunk rotation affects temporal order judgments with direct saccades: Influence
+    of handedness'
+  authors:
+  - Kerstin Paschke
+  - Igor Kagan
+  - "Torsten W\xFCstenberg"
+  - "Mathias B\xE4hr"
+  - Melanie Wilke
+  publisher: Neuropsychologia
+  date: '2015-12-01'
+  link: https://doi.org/f74msb
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.1068-15.2015
+  title: Inactivation of Parietal Reach Region Affects Reaching But Not Saccade Choices
+    in Internally Guided Decisions
+  authors:
+  - Vassilios N. Christopoulos
+  - James Bonaiuto
+  - Igor Kagan
+  - Richard A. Andersen
+  publisher: The Journal of Neuroscience
+  date: '2015-08-19'
+  link: https://doi.org/f7thdh
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/WNR.0000000000000235
+  title: Primate area V1
+  authors:
+  - Andrzej W. Przybyszewski
+  - Igor Kagan
+  - D. Max Snodderly
+  publisher: NeuroReport
+  date: '2014-10-01'
+  link: https://doi.org/gtpk9m
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2013.07.038
+  title: 'Active Vision: Microsaccades Direct the Eye to Where It Matters Most'
+  authors:
+  - Igor Kagan
+  - "Ziad\_M. Hafed"
+  publisher: Current Biology
+  date: '2013-09-01'
+  link: https://doi.org/gmgvzk
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/jocn_a_00399
+  title: Effects of Pulvinar Inactivation on Spatial Decision-making between Equal
+    and Asymmetric Reward Options
+  authors:
+  - Melanie Wilke
+  - Igor Kagan
+  - Richard A. Andersen
+  publisher: Journal of Cognitive Neuroscience
+  date: '2013-08-01'
+  link: https://doi.org/grzhqg
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1204789109
+  title: Functional imaging reveals rapid reorganization of cortical activity after
+    parietal inactivation in monkeys
+  authors:
+  - Melanie Wilke
+  - Igor Kagan
+  - Richard A. Andersen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2012-05-04'
+  link: https://doi.org/f3zh4d
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2012.02.009
+  title: 'Active Vision: Fixational Eye Movements Help Seeing Space in Time'
+  authors:
+  - Igor Kagan
+  publisher: Current Biology
+  date: '2012-03-01'
+  link: https://doi.org/ghfwjf
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.2849-09.2010
+  title: Human Posterior Parietal Cortex Plans Where to Reach and What to Avoid
+  authors:
+  - Axel Lindner
+  - Asha Iyer
+  - Igor Kagan
+  - Richard A. Andersen
+  publisher: The Journal of Neuroscience
+  date: '2010-09-01'
+  link: https://doi.org/cmfnjd
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1002825107
+  title: Space representation for eye movements is more contralateral in monkeys than
+    in humans
+  authors:
+  - Igor Kagan
+  - Asha Iyer
+  - Axel Lindner
+  - Richard A. Andersen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2010-04-12'
+  link: https://doi.org/cwmrt7
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.1000444
+  title: Motor Preparatory Activity in Posterior Parietal Cortex is Modulated by Subjective
+    Absolute Value
+  authors:
+  - Asha Iyer
+  - Axel Lindner
+  - Igor Kagan
+  - Richard A. Andersen
+  publisher: PLoS Biology
+  date: '2010-08-03'
+  link: https://doi.org/bsvcdq
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/8.14.19
+  title: 'Saccades and drifts differentially modulate neuronal activity in V1: Effects
+    of retinal image motion, position, and extraretinal influences'
+  authors:
+  - I. Kagan
+  - M. Gur
+  - D. M. Snodderly
+  publisher: Journal of Vision
+  date: '2008-11-01'
+  link: https://doi.org/fbksrv
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cercor/bhi003
+  title: 'Orientation and Direction Selectivity of Neurons in V1 of Alert Monkeys:
+    Functional Relationships and Laminar Distributions'
+  authors:
+  - Moshe Gur
+  - Igor Kagan
+  - D. Max Snodderly
+  publisher: Cerebral Cortex
+  date: '2004-12-22'
+  link: https://doi.org/b6rpj2
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0079-6123(03)43022-7
+  title: How the mesencephalic locomotor region recruits hindbrain neurons
+  authors:
+  - Igor Kagan
+  - Mark L. Shik
+  publisher: Progress in Brain Research
+  date: '2004-01-01'
+  link: https://doi.org/dt5v3j
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/jn.00858.2001
+  title: 'Spatial Organization of Receptive Fields of V1 Neurons of Alert Monkeys:
+    Comparison With Responses to Gratings'
+  authors:
+  - Igor Kagan
+  - Moshe Gur
+  - D. Max Snodderly
+  publisher: Journal of Neurophysiology
+  date: '2002-11-01'
+  link: https://doi.org/dkmcc8
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0952523801182118
+  title: 'Selective activation of visual cortex neurons by fixational eye movements:
+    Implications for neural coding'
+  authors:
+  - D. MAX SNODDERLY
+  - IGOR KAGAN
+  - MOSHE GUR
+  publisher: Visual Neuroscience
+  date: '2001-03-01'
+  link: https://doi.org/b3n9z8
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:10635724
+  title: Behavior of hindbrain neurons during the transition from rest to evoked locomotion
+    in a newt.
+  authors:
+  - I Bar-Gad
+  - I Kagan
+  - M L Shik
+  publisher: Progress in brain research
+  date: '2022-05-24'
+  link: http://europepmc.org/abstract/med/10635724
+  orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +564,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +580,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
