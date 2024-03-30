@@ -1,23 +1,22 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.7554/eLife.81641
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: Social decision-making
+  date: 2023-01-12
+  image: https://iiif.elifesciences.org/digests/81641%2Fdigest-81641.jpeg/full/617,/0/default.webp
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+    - type: eLife Digest
+      link: https://elifesciences.org/digests/81641/the-art-of-compromise
+    - type: code and data
+      text: code and data
+      link: https://osf.io/f5u8z/
     - type: website
-      link: http://manubot.org/
+      link: https://www.primate-cognition.eu/en/research/social-cognition-platform-project.html
   tags:
-    - open science
+    - social decision-making
     - collaboration
-  repo: greenelab/meta-review
+  repo: https://osf.io/f5u8z/
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1523/JNEUROSCI.0515-12.2012
+  link: https://www.jneurosci.org/content/32/27/9194/tab-e-letters#microsaccades-and-image-fading-during-natural-vision
+  type: eLetter
+  description: eLetter

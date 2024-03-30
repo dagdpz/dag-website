@@ -7,14 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Cognitive and visuomotor functions in primates, with a focus on pulvinar, pulvinar-cortical and bihemispheric processing underlying decision-making in the context of goal-directed eye and hand movements, using neurophysiology, causal interference (inactivation, microstimulation) and functional imaging. 
+Comparative human-monkey neuroimaging. Metacognition and social decision-making. Neurophysiology of active vision in primary visual cortex.   
+
+{% include button.html icon="fa-solid fa-book-open" text="More on PubMed" link="https://pubmed.ncbi.nlm.nih.gov/?term=igor+kagan" %} {% include button.html icon="fa-brands fa-google" text="More on Google Scholar" link="https://scholar.google.com/citations?user=GvDzCecAAAAJ&hl=en" %}
+
+The citations on this page were generated automatically from identifiers using the [Manubot] (https://github.com/manubot/manubot#cite) cite utility.
+
+{% embed url="https://manubot.org/" %}
+
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Human and macaque pairs employ different coordination strategies in a transparent decision game" style="rich" %}
 
 {% include section.html %}
 
@@ -25,3 +32,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
