@@ -4,9 +4,10 @@
   date: 2023-01-12
   image: https://iiif.elifesciences.org/digests/81641%2Fdigest-81641.jpeg/full/617,/0/default.webp
   buttons:
-    - type: eLife Digest
+    - type: article
+      text: eLife Digest
       link: https://elifesciences.org/digests/81641/the-art-of-compromise
-    - type: code and data
+    - type: source
       text: code and data
       link: https://osf.io/f5u8z/
     - type: website
@@ -18,5 +19,5 @@
 
 - id: doi:10.1523/JNEUROSCI.0515-12.2012
   link: https://www.jneurosci.org/content/32/27/9194/tab-e-letters#microsaccades-and-image-fading-during-natural-vision
-  type: eLetter
+  type: paper
   description: eLetter
