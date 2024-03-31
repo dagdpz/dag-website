@@ -121,7 +121,7 @@ linkedin:
   link: https://www.linkedin.com/in/$VALUE
   
 bluesky:
-  icon: fa-brands bluesky_media_kit_logo_svgs.svg
+  icon: fa-brands fa-bluesky
   text: Bluesky
   tooltip: Bluesky
   link: https://bsky.app/profile/$VALUE 
@@ -183,7 +183,11 @@ unpublished:
   icon: fa-regular fa-eye
   text: Unpublished
   tooltip: Unpublished
-
+  
+eletter:  
+  icon: fa-regular fa-envelope
+  text: eletter/letter to editor
+  tooltip: Letter to editor
 manubot:
   icon: manubot.svg
   text: Manubot
