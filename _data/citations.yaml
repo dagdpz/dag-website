@@ -67,27 +67,11 @@
   - Stefan Treue
   - Igor Kagan
   publisher: eLife
-  date: ''
+  date: '2023-01-12'
   link: https://doi.org/grxpvx
   orcid: 0000-0002-1814-4200
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Social decision-making
-  image: https://iiif.elifesciences.org/digests/81641%2Fdigest-81641.jpeg/full/617,/0/default.webp
-  buttons:
-  - type: article
-    text: eLife Digest
-    link: https://elifesciences.org/digests/81641/the-art-of-compromise
-  - type: source
-    text: code and data
-    link: https://osf.io/f5u8z/
-  - type: website
-    link: https://www.primate-cognition.eu/en/research/social-cognition-platform-project.html
-  tags:
-  - social decision-making
-  - collaboration
-  repo: https://osf.io/f5u8z/
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2022.12.30.520322
   title: Dorsal pulvinar inactivation leads to spatial selection bias without perceptual
     deficit
@@ -581,21 +565,11 @@
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/JNEUROSCI.0515-12.2012
-  title: Microsaccadic Efficacy and Contribution to Foveal and Peripheral Vision
-  authors:
-  - M. B. McCamy
-  - J. Otero-Millan
-  - S. L. Macknik
-  - Y. Yang
-  - X. G. Troncoso
-  - S. M. Baer
-  - S. M. Crook
-  - S. Martinez-Conde
+- title: Microsaccades and image fading during natural vision
+  authors: Igor Kagan
   publisher: Journal of Neuroscience
-  date: '2012-07-04'
+  date: ''
   link: https://www.jneurosci.org/content/32/27/9194/tab-e-letters#microsaccades-and-image-fading-during-natural-vision
-  type: paper
-  description: eLetter
+  type: eLetter
   plugin: sources.py
   file: sources.yaml
