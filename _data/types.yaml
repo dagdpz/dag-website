@@ -186,8 +186,9 @@ unpublished:
   
 eletter:  
   icon: fa-regular fa-envelope
-  text: eletter/letter to editor
+  text: eLetter/letter to editor
   tooltip: Letter to editor
+  
 manubot:
   icon: manubot.svg
   text: Manubot
