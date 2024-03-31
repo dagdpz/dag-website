@@ -121,7 +121,7 @@ linkedin:
   link: https://www.linkedin.com/in/$VALUE
   
 bluesky:
-  icon: bluesky_media_kit_logo_svgs.svg
+  icon: fa-brands bluesky_media_kit_logo_svgs.svg
   text: Bluesky
   tooltip: Bluesky
   link: https://bsky.app/profile/$VALUE 
