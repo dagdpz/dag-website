@@ -14,11 +14,12 @@
   tags:
     - social decision-making
     - collaboration
-  repo: https://osf.io/f5u8z/
+
 
 - title: Microsaccades and image fading during natural vision
+  type: eLetter
   authors: Igor Kagan
-  publisher: The Journal of Neuroscience
+  publisher: Journal of Neuroscience
   date: 2012-12-20
   link: https://www.jneurosci.org/content/32/27/9194/tab-e-letters#microsaccades-and-image-fading-during-natural-vision
-  type: eLetter
+  
