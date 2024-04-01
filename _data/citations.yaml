@@ -405,7 +405,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/WNR.0000000000000235
-  title: Primate area V1
+  title: 'Primate area V1: largest response gain for receptive fields in the straight-ahead
+    direction'
   authors:
   - Andrzej W. Przybyszewski
   - Igor Kagan
@@ -414,8 +415,8 @@
   date: '2014-10-01'
   link: https://doi.org/gtpk9m
   orcid: 0000-0002-1814-4200
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cub.2013.07.038
   title: 'Active Vision: Microsaccades Direct the Eye to Where It Matters Most'
   authors:
@@ -577,19 +578,6 @@
   publisher: Progress in Brain Research
   date: '1999-01-01'
   link: https://doi.org/fqj3vw
-  orcid: 0000-0002-1814-4200
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:10635724
-  title: Behavior of hindbrain neurons during the transition from rest to evoked locomotion
-    in a newt.
-  authors:
-  - I Bar-Gad
-  - I Kagan
-  - M L Shik
-  publisher: Progress in brain research
-  date: '2022-05-24'
-  link: http://europepmc.org/abstract/med/10635724
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
