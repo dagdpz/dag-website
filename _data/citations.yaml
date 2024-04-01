@@ -405,18 +405,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1097/WNR.0000000000000235
-  title: 'Primate area V1: largest response gain for receptive fields in the straight-ahead
-    direction'
-  authors:
-  - Andrzej W. Przybyszewski
-  - Igor Kagan
-  - D. Max Snodderly
-  publisher: NeuroReport
-  date: '2014-10-01'
-  link: https://doi.org/gtpk9m
+  title: Microsaccades and image fading during natural vision
+  authors: Igor Kagan
+  publisher: Journal of Neuroscience
+  date: '2012-12-20'
+  link: https://www.jneurosci.org/content/32/27/9194/tab-e-letters#microsaccades-and-image-fading-during-natural-vision
   orcid: 0000-0002-1814-4200
   plugin: sources.py
   file: sources.yaml
+  type: eletter
 - id: doi:10.1016/j.cub.2013.07.038
   title: 'Active Vision: Microsaccades Direct the Eye to Where It Matters Most'
   authors:
@@ -581,11 +578,3 @@
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
-- title: Microsaccades and image fading during natural vision
-  type: eletter
-  authors: Igor Kagan
-  publisher: Journal of Neuroscience
-  date: '2012-12-20'
-  link: https://www.jneurosci.org/content/32/27/9194/tab-e-letters#microsaccades-and-image-fading-during-natural-vision
-  plugin: sources.py
-  file: sources.yaml
