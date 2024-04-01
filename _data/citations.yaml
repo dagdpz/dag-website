@@ -567,6 +567,19 @@
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/s0079-6123(08)62864-2
+  title: Chapter 25 Behavior of Hindbrain Neurons During the Transition from Rest
+    to Evoked Locomotion in a Newt
+  authors:
+  - I. Bar-Gad
+  - I. Kagan
+  - M.L. Shik
+  publisher: Progress in Brain Research
+  date: '1999-01-01'
+  link: https://doi.org/fqj3vw
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:10635724
   title: Behavior of hindbrain neurons during the transition from rest to evoked locomotion
     in a newt.
@@ -580,3 +593,11 @@
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
+- title: Microsaccades and image fading during natural vision
+  type: eletter
+  authors: Igor Kagan
+  publisher: Journal of Neuroscience
+  date: '2012-12-20'
+  link: https://www.jneurosci.org/content/32/27/9194/tab-e-letters#microsaccades-and-image-fading-during-natural-vision
+  plugin: sources.py
+  file: sources.yaml
