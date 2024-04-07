@@ -12,7 +12,8 @@ Comparative human-monkey neuroimaging. Metacognition and social decision-making.
 
 {% include button.html icon="fa-solid fa-book-open" text="More on PubMed" link="https://pubmed.ncbi.nlm.nih.gov/?term=igor+kagan" %} {% include button.html icon="fa-brands fa-google" text="More on Google Scholar" link="https://scholar.google.com/citations?user=GvDzCecAAAAJ&hl=en" %}
 
-The citations on this page were generated automatically from identifiers using the [Manubot] (https://github.com/manubot/manubot#cite) cite utility.
+The citations on this page were generated automatically from identifiers using 
+{% include button.html icon="manubot.svg" text="[Manubot]" link="https://github.com/manubot/manubot#cite" %} cite utility.
 
 
 {% include section.html %}
