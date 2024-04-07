@@ -1,5 +1,525 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:38453977
+  title: Decision-making processes in perceptual learning depend on effectors.
+  authors:
+  - Vladyslav Ivanov
+  - Giorgio L Manenti
+  - Sandrin S Plewe
+  - Igor Kagan
+  - Caspar M Schwiedrzik
+  publisher: Scientific reports
+  date: '2024-03-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38453977
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37724430
+  title: Visual, delay, and oculomotor timing and tuning in macaque dorsal pulvinar
+    during instructed and free choice memory saccades.
+  authors:
+  - Lukas Schneider
+  - Adan-Ulises Dominguez-Vargas
+  - Lydia Gibson
+  - Melanie Wilke
+  - Igor Kagan
+  publisher: 'Cerebral cortex (New York, N.Y. : 1991)'
+  date: '2023-10-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37724430
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37098332
+  title: 'Active vision: How you look reflects what you are looking for.'
+  authors:
+  - Alessandro Benedetto
+  - Igor Kagan
+  publisher: 'Current biology : CB'
+  date: '2023-04-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37098332
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36633125
+  title: Human and macaque pairs employ different coordination strategies in a transparent
+    decision game.
+  authors:
+  - Sebastian Moeller
+  - Anton M Unakafov
+  - Julia Fischer
+  - Alexander Gail
+  - Stefan Treue
+  - Igor Kagan
+  publisher: eLife
+  date: '2023-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36633125
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34418632
+  title: Erratum to Effective connectivity and spatial selectivity-dependent fMRI
+    changes elicited by microstimulation of pulvinar and LIP [NeuroImage (2021) 118283].
+  authors:
+  - Igor Kagan
+  - Lydia Gibson
+  - Elena Spanou
+  - Melanie Wilke
+  publisher: NeuroImage
+  date: '2021-08-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34418632
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34147628
+  title: Effective connectivity and spatial selectivity-dependent fMRI changes elicited
+    by microstimulation of pulvinar and LIP.
+  authors:
+  - Igor Kagan
+  - Lydia Gibson
+  - Elena Spanou
+  - Melanie Wilke
+  publisher: NeuroImage
+  date: '2021-06-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34147628
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33794355
+  title: Combining brain perturbation and neuroimaging in non-human primates.
+  authors:
+  - P Christiaan Klink
+  - "Jean-Fran\xE7ois Aubry"
+  - Vincent P Ferrera
+  - Andrew S Fox
+  - Sean Froudist-Walsh
+  - "B\xE9chir Jarraya"
+  - Elisa E Konofagou
+  - Richard J Krauzlis
+  - Adam Messinger
+  - Anna S Mitchell
+  - Michael Ortiz-Rios
+  - Hiroyuki Oya
+  - Angela C Roberts
+  - Anna Wang Roe
+  - Matthew F S Rushworth
+  - "J\xE9r\xF4me Sallet"
+  - Michael Christoph Schmid
+  - Charles E Schroeder
+  - Jordy Tasserie
+  - Doris Y Tsao
+  - Lynn Uhrig
+  - Wim Vanduffel
+  - Melanie Wilke
+  - Igor Kagan
+  - Christopher I Petkov
+  publisher: NeuroImage
+  date: '2021-03-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33794355
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33733195
+  title: Deep Active Inference and Scene Construction.
+  authors:
+  - R Conor Heins
+  - M Berk Mirza
+  - Thomas Parr
+  - Karl Friston
+  - Igor Kagan
+  - Arezoo Pooresmaeili
+  publisher: Frontiers in artificial intelligence
+  date: '2020-10-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33733195
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32765373
+  title: 'Macaque Gaze Responses to the Primatar: A Virtual Macaque Head for Social
+    Cognition Research.'
+  authors:
+  - Vanessa A D Wilson
+  - Carolin Kade
+  - Sebastian Moeller
+  - Stefan Treue
+  - Igor Kagan
+  - Julia Fischer
+  publisher: Frontiers in psychology
+  date: '2020-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32765373
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32024898
+  title: Judgments of effort exerted by others are influenced by received rewards.
+  authors:
+  - Max Rollwage
+  - Franziska Pannach
+  - Caedyn Stinson
+  - Ulf Toelch
+  - Igor Kagan
+  - Arezoo Pooresmaeili
+  publisher: Scientific reports
+  date: '2020-02-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32024898
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31917809
+  title: Emergence and suppression of cooperation by action visibility in transparent
+    games.
+  authors:
+  - Anton M Unakafov
+  - Thomas Schultze
+  - Alexander Gail
+  - Sebastian Moeller
+  - Igor Kagan
+  - Stephan Eule
+  - Fred Wolf
+  publisher: PLoS computational biology
+  date: '2020-01-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31917809
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31794926
+  title: Aberrant functional connectivity of resting state networks related to misperceptions
+    and intra-individual variability in Parkinson's disease.
+  authors:
+  - Kristina Miloserdov
+  - Carsten Schmidt-Samoa
+  - Kathleen Williams
+  - Christiane Anne Weinrich
+  - Igor Kagan
+  - "Katrin B\xFCrk"
+  - Claudia Trenkwalder
+  - "Mathias B\xE4hr"
+  - Melanie Wilke
+  publisher: NeuroImage. Clinical
+  date: '2019-11-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31794926
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31747331
+  title: Eye position signals in the dorsal pulvinar during fixation and goal-directed
+    saccades.
+  authors:
+  - Lukas Schneider
+  - Adan-Ulises Dominguez-Vargas
+  - Lydia Gibson
+  - Igor Kagan
+  - Melanie Wilke
+  publisher: Journal of neurophysiology
+  date: '2019-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31747331
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30682191
+  title: 'Correction: Using imaging photoplethysmography for heart rate estimation
+    in non-human primates.'
+  authors:
+  - Anton M Unakafov
+  - "Sebastian M\xF6ller"
+  - Igor Kagan
+  - Alexander Gail
+  - Stefan Treue
+  - Fred Wolf
+  publisher: PloS one
+  date: '2019-01-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30682191
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30169537
+  title: Using imaging photoplethysmography for heart rate estimation in non-human
+    primates.
+  authors:
+  - Anton M Unakafov
+  - "Sebastian M\xF6ller"
+  - Igor Kagan
+  - Alexander Gail
+  - Stefan Treue
+  - Fred Wolf
+  publisher: PloS one
+  date: '2018-08-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30169537
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29940283
+  title: 'Implicit reward associations impact face processing: Time-resolved evidence
+    from event-related brain potentials and pupil dilations.'
+  authors:
+  - Wiebke Hammerschmidt
+  - Igor Kagan
+  - Louisa Kulke
+  - Annekathrin Schacht
+  publisher: NeuroImage
+  date: '2018-06-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29940283
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29872059
+  title: Lateral intraparietal area (LIP) is largely effector-specific in free-choice
+    decisions.
+  authors:
+  - Vassilios N Christopoulos
+  - Igor Kagan
+  - Richard A Andersen
+  publisher: Scientific reports
+  date: '2018-06-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29872059
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29544114
+  title: Post-decision wagering after perceptual judgments reveals bi-directional
+    certainty readouts.
+  authors:
+  - Caio M Moreira
+  - Max Rollwage
+  - Kristin Kaduk
+  - Melanie Wilke
+  - Igor Kagan
+  publisher: Cognition
+  date: '2018-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29544114
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29216478
+  title: Reach and grasp deficits following damage to the dorsal pulvinar.
+  authors:
+  - Melanie Wilke
+  - Lukas Schneider
+  - Adan-Ulises Dominguez-Vargas
+  - Carsten Schmidt-Samoa
+  - Kristina Miloserdov
+  - Ahmad Nazzal
+  - Peter Dechent
+  - Yuranny Cabral-Calderin
+  - "Hansj\xF6rg Scherberger"
+  - Igor Kagan
+  - "Mathias B\xE4hr"
+  publisher: Cortex; a journal devoted to the study of the nervous system and behavior
+  date: '2017-11-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29216478
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28486116
+  title: 'Active Vision: Dynamic Reformatting of Visual Information by the Saccade-Drift
+    Cycle.'
+  authors:
+  - Igor Kagan
+  - David C Burr
+  publisher: 'Current biology : CB'
+  date: '2017-05-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28486116
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28119401
+  title: Electrical Microstimulation of the Pulvinar Biases Saccade Choices and Reaction
+    Times in a Time-Dependent Manner.
+  authors:
+  - Adan-Ulises Dominguez-Vargas
+  - Lukas Schneider
+  - Melanie Wilke
+  - Igor Kagan
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2017-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28119401
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26518506
+  title: 'Trunk rotation affects temporal order judgments with direct saccades: Influence
+    of handedness.'
+  authors:
+  - Kerstin Paschke
+  - Igor Kagan
+  - "Torsten W\xFCstenberg"
+  - "Mathias B\xE4hr"
+  - Melanie Wilke
+  publisher: Neuropsychologia
+  date: '2015-10-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26518506
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26290248
+  title: Inactivation of Parietal Reach Region Affects Reaching But Not Saccade Choices
+    in Internally Guided Decisions.
+  authors:
+  - Vassilios N Christopoulos
+  - James Bonaiuto
+  - Igor Kagan
+  - Richard A Andersen
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2015-08-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26290248
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25055141
+  title: 'Primate area V1: largest response gain for receptive fields in the straight-ahead
+    direction.'
+  authors:
+  - Andrzej W Przybyszewski
+  - Igor Kagan
+  - D Max Snodderly
+  publisher: Neuroreport
+  date: '2014-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25055141
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24028947
+  title: 'Active vision: microsaccades direct the eye to where it matters most.'
+  authors:
+  - Igor Kagan
+  - Ziad M Hafed
+  publisher: 'Current biology : CB'
+  date: '2013-09-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24028947
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23574581
+  title: Effects of pulvinar inactivation on spatial decision-making between equal
+    and asymmetric reward options.
+  authors:
+  - Melanie Wilke
+  - Igor Kagan
+  - Richard A Andersen
+  publisher: Journal of cognitive neuroscience
+  date: '2013-04-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23574581
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22562793
+  title: Functional imaging reveals rapid reorganization of cortical activity after
+    parietal inactivation in monkeys.
+  authors:
+  - Melanie Wilke
+  - Igor Kagan
+  - Richard A Andersen
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2012-05-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22562793
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22440800
+  title: 'Active vision: fixational eye movements help seeing space in time.'
+  authors:
+  - Igor Kagan
+  publisher: 'Current biology : CB'
+  date: '2012-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22440800
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20810892
+  title: Human posterior parietal cortex plans where to reach and what to avoid.
+  authors:
+  - Axel Lindner
+  - Asha Iyer
+  - Igor Kagan
+  - Richard A Andersen
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2010-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20810892
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20689802
+  title: Motor preparatory activity in posterior parietal cortex is modulated by subjective
+    absolute value.
+  authors:
+  - Asha Iyer
+  - Axel Lindner
+  - Igor Kagan
+  - Richard A Andersen
+  publisher: PLoS biology
+  date: '2010-08-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20689802
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20385808
+  title: Space representation for eye movements is more contralateral in monkeys than
+    in humans.
+  authors:
+  - Igor Kagan
+  - Asha Iyer
+  - Axel Lindner
+  - Richard A Andersen
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2010-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20385808
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19146320
+  title: 'Saccades and drifts differentially modulate neuronal activity in V1: effects
+    of retinal image motion, position, and extraretinal influences.'
+  authors:
+  - Igor Kagan
+  - Moshe Gur
+  - D Max Snodderly
+  publisher: Journal of vision
+  date: '2008-11-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19146320
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:15616136
+  title: 'Orientation and direction selectivity of neurons in V1 of alert monkeys:
+    functional relationships and laminar distributions.'
+  authors:
+  - Moshe Gur
+  - Igor Kagan
+  - D Max Snodderly
+  publisher: 'Cerebral cortex (New York, N.Y. : 1991)'
+  date: '2004-12-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15616136
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:14653167
+  title: How the mesencephalic locomotor region recruits hindbrain neurons.
+  authors:
+  - Igor Kagan
+  - Mark L Shik
+  publisher: Progress in brain research
+  date: '2004-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14653167
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:12424294
+  title: 'Spatial organization of receptive fields of V1 neurons of alert monkeys:
+    comparison with responses to gratings.'
+  authors:
+  - Igor Kagan
+  - Moshe Gur
+  - D Max Snodderly
+  publisher: Journal of neurophysiology
+  date: '2002-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12424294
+  term: Kagan, Igor[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: doi:10.3389/fpsyg.2024.1304372
   title: The contribution of sensory information asymmetry and bias of attribution
     to egocentric tendencies in effort comparison tasks
@@ -430,6 +950,18 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2018-01-25'
   link: https://doi.org/gkvn96
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cub.2017.03.042
+  title: 'Active Vision: Dynamic Reformatting of Visual Information by the Saccade-Drift
+    Cycle'
+  authors:
+  - Igor Kagan
+  - David C. Burr
+  publisher: Current Biology
+  date: '2017-05-01'
+  link: https://doi.org/grrsk6
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
