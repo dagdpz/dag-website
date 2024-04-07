@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3389/fpsyg.2024.1304372
+  title: The contribution of sensory information asymmetry and bias of attribution
+    to egocentric tendencies in effort comparison tasks
+  authors:
+  - Caedyn Stinson
+  - Igor Kagan
+  - Arezoo Pooresmaeili
+  publisher: Frontiers in Psychology
+  date: '2024-04-04'
+  link: https://doi.org/gtp9pg
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.31234/osf.io/fx2bg
   title: 'Little scientists &amp;amp; social apprentices:  Active word learning in
     dynamic social contexts using a transparent dyadic interaction platform'
@@ -156,6 +169,35 @@
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2021.118283
+  title: Effective connectivity and spatial selectivity-dependent fMRI changes elicited
+    by microstimulation of pulvinar and LIP
+  authors:
+  - Igor Kagan
+  - Lydia Gibson
+  - Elena Spanou
+  - Melanie Wilke
+  publisher: NeuroImage
+  date: '2021-10-01'
+  link: https://doi.org/grzhqn
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/frai.2020.509354
+  title: Deep Active Inference and Scene Construction
+  authors:
+  - R. Conor Heins
+  - M. Berk Mirza
+  - Thomas Parr
+  - Karl Friston
+  - Igor Kagan
+  - Arezoo Pooresmaeili
+  publisher: Frontiers in Artificial Intelligence
+  date: '2020-10-28'
+  link: https://doi.org/ghg9j8
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2020.09.16.298539
   title: Effective connectivity and spatial selectivity-dependent fMRI changes elicited
     by microstimulation of pulvinar and LIP
@@ -167,6 +209,22 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-09-17'
   link: https://doi.org/gtpk9j
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fpsyg.2020.01645
+  title: 'Macaque Gaze Responses to the Primatar: A Virtual Macaque Head for Social
+    Cognition Research'
+  authors:
+  - Vanessa A. D. Wilson
+  - Carolin Kade
+  - Sebastian Moeller
+  - Stefan Treue
+  - Igor Kagan
+  - Julia Fischer
+  publisher: Frontiers in Psychology
+  date: '2020-07-17'
+  link: https://doi.org/gmzh3x
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
@@ -278,6 +336,20 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-02-01'
   link: https://doi.org/gk259w
+  orcid: 0000-0002-1814-4200
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2018.06.055
+  title: 'Implicit reward associations impact face processing: Time-resolved evidence
+    from event-related brain potentials and pupil dilations'
+  authors:
+  - Wiebke Hammerschmidt
+  - Igor Kagan
+  - Louisa Kulke
+  - Annekathrin Schacht
+  publisher: NeuroImage
+  date: '2018-10-01'
+  link: https://doi.org/gfwjxv
   orcid: 0000-0002-1814-4200
   plugin: orcid.py
   file: orcid.yaml
