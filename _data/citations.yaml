@@ -551,6 +551,18 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1097/WNR.0000000000000235
+  title: 'Primate area V1: largest response gain for receptive fields in the straight-ahead
+    direction'
+  authors:
+  - Andrzej W. Przybyszewski
+  - Igor Kagan
+  - D. Max Snodderly
+  publisher: NeuroReport
+  date: '2014-10-01'
+  link: https://doi.org/gtpk9m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1523/JNEUROSCI.0515-12.2012
   title: Microsaccades and image fading during natural vision
   authors: Igor Kagan
   publisher: Journal of Neuroscience
