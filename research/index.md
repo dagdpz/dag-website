@@ -14,6 +14,8 @@ Comparative human-monkey neuroimaging. Metacognition and social decision-making.
 
 The citations on this page were generated automatically from identifiers using {% include icon.html icon="manubot.svg"%} [Manubot](https://github.com/manubot/manubot#cite) cite utility.
 
+See Publications for direct PDF downloads.
+
 
 {% include section.html %}
 
